@@ -1,0 +1,52 @@
+
+body{
+  background-color:oldlace
+}
+.imgpro{
+  border-radius: 50%;
+}
+nav{
+  margin-left: 200px;
+  background-color: rgb(206, 162, 95);
+  margin-right: 350px;
+  height:30px;
+}
+
+li{
+  
+  margin-left: 100px;
+ 
+  color: maroon;
+  border-radius: 2px;
+  font-size: 20px;
+  padding-top: 10px;
+  
+  
+  
+}
+a {
+  text-decoration: none;
+ 
+
+}
+
+a li{
+  display: inline;
+}
+a:hover li{
+  color:rgba(13, 150, 241, 0.801)
+}
+
+.link a li{
+  display: block;
+
+}
+
+.foot ul li a p{
+  color: white;
+}
+h2{
+  color:white;
+}
+
+
